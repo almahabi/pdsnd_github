@@ -8,7 +8,7 @@ Explore US Bikeshare Data.
 
 ### Description
 
-Using Python I accessed 3 cities bikeshare systems data to answer  some quetions for the people.
+I used Python and accessed 3 cities bikeshare systems data to answer  some quetions for the people.
 
 ### Files used
 
