@@ -12,7 +12,7 @@ I used Python and accessed 3 cities bikeshare systems data to answer  some queti
 
 ### Files used
 
-1- new_york_city.csv 2- chicago.csv 3- washington.csv 4- bikeshare.py
+1- washington.csv 2- chicago.csv 3- new_york_city.csv 
 
 ### Credits
 1- Udacity course 2- GitHub 3- slack platform 4- Amro khan
